@@ -1,7 +1,7 @@
  <?php
      
     $array_in = array(1,5,8,9,10,"angel","anna");
-        
+        // шукаємо елемент "angel"
     $search_element = "angel";
     search($array_in, $search_element);
         
